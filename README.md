@@ -44,7 +44,7 @@ cp server/.env.example server/.env
 npm run dev
 ```
 
-Frontend: `http://localhost:5173`
+Frontend: `http://localhost:9000`
 
 Backend: `http://localhost:5000`
 
